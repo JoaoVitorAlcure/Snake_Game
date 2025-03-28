@@ -4,7 +4,7 @@ O Snake Game é um jogo em que o objetivo é ir atrás das comidas espalhadas pe
 
 ## Instalação
 
-Baixe o jogo via Google Drive
+Baixe o arquivo e execute via IntelliJ
 
 
 ## Comandos
